@@ -50,7 +50,7 @@ wheels = [
 ]
 
 [[package]]
-name = "hash-checker-python"
+name = "hash-verifier"
 version = "0.1.0"
 source = { virtual = "." }
 
